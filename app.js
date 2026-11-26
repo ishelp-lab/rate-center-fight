@@ -2,8 +2,8 @@
   // Cole aqui a URL do Google Apps Script (/exec) da planilha da Center Fight Academia
   const WEBHOOK_URL = '';
 
-  // Cole aqui o link direto de avaliação no Google (ex: https://g.page/r/.../review)
-  const GOOGLE_REVIEW_URL = 'https://maps.google.com/?q=Center+Fight+Academia+Av+Paulo+Firmino+110+Uberlandia';
+  // Link direto de avaliação no Google (Center Fight Academia)
+  const GOOGLE_REVIEW_URL = 'https://search.google.com/local/writereview?placeid=ChIJTY5Dt5lFpJQRFpoA8BpELt8';
 
   const RATING_LABELS = {
     1: { text: '1 estrela · Muito insatisfeito', tone: 'is-low' },
