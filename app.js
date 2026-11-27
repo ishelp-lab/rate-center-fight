@@ -1,6 +1,6 @@
 (() => {
   // Cole aqui a URL do Google Apps Script (/exec) da planilha da Center Fight Academia
-  const WEBHOOK_URL = '';
+  const WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbyXYV9nq7vbD8l12PeCfSBJGoiyV7F8CFp1JpvMBjtDBiSAAbhTi2AkZBX2ZqPARbUk4w/exec';
 
   // Link direto de avaliação no Google (Center Fight Academia)
   const GOOGLE_REVIEW_URL = 'https://search.google.com/local/writereview?placeid=ChIJTY5Dt5lFpJQRFpoA8BpELt8';
